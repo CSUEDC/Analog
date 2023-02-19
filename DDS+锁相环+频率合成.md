@@ -161,6 +161,25 @@ $$
 可知，通过调整延时时间t′，理论上可以使信噪比接近无穷大，但由于器件的性能限制，实际的信噪比也是有限的，但也能够有效抑制杂散。
   <mark>现阶段有部分芯片可以支持这种方法，如含有四路DAC的AD9016，可以通过编程达成这种方法</mark>
 
+## 五   DDS芯片介绍
+
+#### **1、AD9102**
+
+![](https://s1.ax1x.com/2023/02/01/pSBTMX4.png)
+![](https://s1.ax1x.com/2023/02/01/pSBT37R.md.png)
+
+#### **2、AD9164**
+
+![](https://pic.imgdb.cn/item/63da10f2ac6ef86016e1cf4e.png)
+![](https://pic.imgdb.cn/item/63da10f3ac6ef86016e1d0fc.png)
+
+#### **3、AD9174**
+
+![](https://pic.imgdb.cn/item/63da10f4ac6ef86016e1d3d8.png)
+![](https://pic.imgdb.cn/item/63da10f6ac6ef86016e1d5f8.png)
+
+---
+
 ## 第九章   频率合成
 
 ### **锁相环技术及其运用**
@@ -190,7 +209,13 @@ $$
 > - 音频时钟：48kHz
 > - 位时钟：12.88MHz
 
+## 目录
 
+**1、锁相环结构及其原理**
+**2、锁相环应用**
+**3、全数字环简介**
+
+**4、最新PLL芯片介绍**
 
 ---
 
@@ -352,3 +377,16 @@ T_c：信号钟的周期。
 
 
 
+
+#### **4.最新PLL芯片介绍**
+
+ADF5610
+![](https://pic.imgdb.cn/item/63da228eac6ef86016060ba4.png)
+ADF5610
+![](https://pic.imgdb.cn/item/63da228eac6ef86016060ba4.png)
+AD9546
+![](https://pic.imgdb.cn/item/63da22b1ac6ef86016064683.png)
+AD9546
+![](https://pic.imgdb.cn/item/63da230aac6ef8601606de4e.png)
+LMX2820
+![](https://pic.imgdb.cn/item/63da2313ac6ef8601606f1b3.png)
